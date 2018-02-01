@@ -1,6 +1,5 @@
 ## Load required libraries
 
-library(dplyr)
 library(reshape2)
 
 ## Import the data
